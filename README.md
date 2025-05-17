@@ -1,20 +1,39 @@
-The MIT License (MIT)
+AdminLTE adalah templat administrasi yang sepenuhnya responsif. Berdasarkan kerangka kerja Bootstrap 5 dan juga plugin JavaScript. Sangat dapat disesuaikan dan mudah digunakan. Cocok untuk banyak resolusi layar dari perangkat seluler kecil hingga desktop besar.
 
-Copyright (c) 2014-2023 ColorlibHQ
+Mencari Template Premium?
+AdminLTE.io baru saja membuka halaman template premium baru. Dipilih sendiri untuk memastikan kualitas terbaik dan paling terjangkau Harga. Kunjungi https://adminlte.io/premium untuk informasi lebih lanjut.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+"Presentasi AdminLTE"
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+AdminLTE telah dikodekan dengan hati-hati dengan komentar yang jelas di semua file JS, SCSS, dan HTML-nya. SCSS telah digunakan untuk meningkatkan kemampuan penyesuaian kode.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Mulai cepat
+Kompilasi file dist
+Untuk mengkompilasi file dist yang Anda butuhkan Node.js/npm, kloning/unduh repositori kemudian:
+
+npm install (instal npm deps)
+Opsional: (mode pengembang, kompilasi otomatis dengan dukungan browsersync untuk demo langsung)npm run dev
+npm run production (Kompilasi file CSS/JS)
+Berkontribusi
+Sangat disambut.
+Untuk referensi tambahan Anda, periksa Panduan Kontribusi AdminLTE v4
+Hal pertama yang pertama, Anda harus memiliki sedikit pengetahuan tentang NodeJS.
+Pengetahuan Github.
+Instal versi NodeJS LTS.
+Kloning Repositori ini ke mesin Anda dan ubah ke cabang.master
+Buka Folder Kloning.
+Dalam cli/bash run itu akan menginstal dependensi dari .npm installpackage.json
+Setelah penginstalan selesai, jalankan npm run dev
+Keren, Kirim urs perubahan di PR ke cabang.master
+Sponsor
+Mendukung pengembangan AdminLTE dengan menjadi sponsor. Sponsor Github atau PayPal
+
+Lisensi
+AdminLTE adalah proyek open source oleh AdminLTE.io yang dilisensikan di bawah MIT. AdminLTE.io berhak untuk mengubah lisensi rilis di masa mendatang.
+
+Kredit Gambar
+Pixeden
+Bahan bakar grafis
+Pickaface
+Buka percikan
+Wajah
