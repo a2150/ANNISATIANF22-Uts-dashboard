@@ -3,7 +3,7 @@ AdminLTE adalah templat administrasi yang sepenuhnya responsif. Berdasarkan kera
 Mencari Template Premium?
 AdminLTE.io baru saja membuka halaman template premium baru. Dipilih sendiri untuk memastikan kualitas terbaik dan paling terjangkau Harga. Kunjungi https://adminlte.io/premium untuk informasi lebih lanjut.
 
-"Presentasi AdminLTE"
+"Presentasi AdminLTE"https://adminlte.io/themes/v3/index3.html
 
 AdminLTE telah dikodekan dengan hati-hati dengan komentar yang jelas di semua file JS, SCSS, dan HTML-nya. SCSS telah digunakan untuk meningkatkan kemampuan penyesuaian kode.
 
